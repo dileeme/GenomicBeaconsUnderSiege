@@ -1,0 +1,10 @@
+Metric,Value
+N Individuals,2504
+N SNPs,200
+Data Source,synthetic
+Plaintext Time (ms),3.001
+Total Encryption Time (s),11.3125
+Total FHE Computation (s),76.52
+Accuracy (MAE),2.1744e-06
+Overhead Computation Only (x),25498.0
+Overhead End-to-End (x),29268.0

@@ -1,0 +1,5 @@
+Effect,Comp Time Delta (s),Comp Time Delta (%),MAE Delta
+Depth (A->B),-36.9171,-48.86,-4.89e-06
+Scale (A->C),-0.6049,-0.8,0.33579277
+Interaction,1.3038,1.73,-0.15316192
+Total (A->D),-36.2182,-47.93,0.18262595

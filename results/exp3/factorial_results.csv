@@ -1,0 +1,5 @@
+Config,Description,Depth (L),Scale (bits),Enc Time (s),Comp Time (s),Total FHE Time (s),Ciphertext Size (KB),MAE
+A,"Baseline (L=2, scale=2^40)",2,40,11.9483,75.5626,87.5109,326.57,5.3542e-06
+B,"Depth reduction only (L=1, scale=2^40)",1,40,9.5302,38.6455,48.1757,229.77,4.612e-07
+C,"Scale reduction only (L=2, scale=2^21)",2,21,11.2185,74.9577,86.1761,237.96,0.3357981251
+D,"Compacted (L=1, scale=2^21)",1,21,9.6669,39.3444,49.0113,155.56,0.1826313084
